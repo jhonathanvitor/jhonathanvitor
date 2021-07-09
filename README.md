@@ -1,3 +1,4 @@
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p>
 ## Hi, I'm Jhonathan Vitor. Nice to meet you  <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px" style="max-width:100%;">
 
 <a href="https://api.whatsapp.com/send?phone=5565992193253&text=Ol%C3%A1%20estava%20vendo%20o%20seu%20perfil%20no%20GitHub">
@@ -44,6 +45,7 @@ About me:<br />
 💬 Ask me about anything, tech, games, movies<br />
 ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.<br />
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/viniciusestevam/viniciusestevam/blob/master/character.png?raw=true"><img align="right" height="300px" src="https://github.com/viniciusestevam/viniciusestevam/raw/master/character.png?raw=true" style="max-width:100%;"></a>
+</article>
   <!--
 **jhonathanvitor/jhonathanvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
