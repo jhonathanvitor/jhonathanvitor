@@ -1,4 +1,11 @@
-### Hi there 👋
+### Jhonathan Vitor 👋
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about education and changing people's lives through programming. 
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+
 <a href="https://api.whatsapp.com/send?phone=5565992193253&text=Ol%C3%A1%20estava%20vendo%20o%20seu%20perfil%20no%20GitHub">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
