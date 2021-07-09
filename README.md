@@ -1,4 +1,4 @@
-## Hi, I'm Jhonathan Vitor. Nice to meet you  👋
+## Hi, I'm Jhonathan Vitor. Nice to meet you  <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px" style="max-width:100%;">
 
 <a href="https://api.whatsapp.com/send?phone=5565992193253&text=Ol%C3%A1%20estava%20vendo%20o%20seu%20perfil%20no%20GitHub">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
