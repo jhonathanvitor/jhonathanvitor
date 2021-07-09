@@ -1,4 +1,4 @@
-### Jhonathan Vitor 👋
+# Jhonathan Vitor 👋
 
 Enthusiast of the best web & mobile development technologies.
 
