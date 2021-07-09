@@ -21,6 +21,7 @@
 <a href="">
   <img src=""/>
 </a>
+<br />
 Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and changing people's lives through programming. 
