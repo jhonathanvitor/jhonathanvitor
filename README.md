@@ -25,9 +25,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </a>
-<a href="">
-  <img src=""/>
-</a>
 <br />
 <br />
 Enthusiast of the best web & mobile development technologies.
