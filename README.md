@@ -27,8 +27,7 @@
 </a>
 <br />
 <br />
-Enthusiast of the best web & mobile development technologies.
-<br /><br />
+
 Passionate about education and changing people's lives through programming. 
 <br /><br />
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
@@ -38,10 +37,8 @@ Things I like to do:<br />
 
 🖥 Web Applications<br />
 🎨 Interfaces<br />
-📱 Applications<br />
+📱 Applications<br /><br />
 About me:<br />
-
-🔭 I am currently working at Univag as a Web Designer<br />
 🌱 I'm currently learning JavaScript, ReactJS and NodeJS<br />
 ✊🏽 I try to collaborate on social impact projects<br />
 💡 I try to help people who are starting in programming<br />
