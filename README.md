@@ -43,6 +43,7 @@ About me:<br />
 💡 I try to help people who are starting in programming<br />
 💬 Ask me about anything, tech, games, movies<br />
 ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.<br />
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/viniciusestevam/viniciusestevam/blob/master/character.png?raw=true"><img align="right" height="300px" src="https://github.com/viniciusestevam/viniciusestevam/raw/master/character.png?raw=true" style="max-width:100%;"></a>
   <!--
 **jhonathanvitor/jhonathanvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
