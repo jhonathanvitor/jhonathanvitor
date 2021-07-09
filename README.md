@@ -30,20 +30,20 @@ Passionate about education and changing people's lives through programming.
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 <br /><br />
 
-Things I like to do:
+Things I like to do:<br />
 
-🖥 Web Applications
-🎨 Interfaces
-📱 Applications
-About me:
+🖥 Web Applications<br />
+🎨 Interfaces<br />
+📱 Applications<br />
+About me:<br />
 
-🔭 I am currently working at Rocketseat as a software developer
-🌱 I'm currently learning JavaScript, ReactJS and NodeJS
-✊🏽 I try to collaborate on social impact projects
-💡 I try to help people who are starting in programming
-💬 Ask me about anything, but know that I'm passionate about technology
-📫 How to contact me: My Linkedin, My Portfolio, My E-mail
-⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
+🔭 I am currently working at Rocketseat as a software developer<br />
+🌱 I'm currently learning JavaScript, ReactJS and NodeJS<br />
+✊🏽 I try to collaborate on social impact projects<br />
+💡 I try to help people who are starting in programming<br />
+💬 Ask me about anything, but know that I'm passionate about technology<br />
+📫 How to contact me: My Linkedin, My Portfolio, My E-mail<br />
+⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.<br />
   <!--
 **jhonathanvitor/jhonathanvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
