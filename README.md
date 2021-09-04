@@ -37,7 +37,8 @@ Things I like to do:<br />
 
 🖥 Web Applications<br />
 🎨 Interfaces<br />
-📱 Applications<br /><br />
+📱 Applications<br />
+🎮 Game Designer<br /><br />
 About me:<br />
 🌱 I'm currently learning JavaScript, ReactJS and NodeJS<br />
 ✊🏽 I try to collaborate on social impact projects<br />
