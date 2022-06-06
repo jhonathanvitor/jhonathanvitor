@@ -26,7 +26,7 @@
 </a>
 </a>
 <a href="https://jhonathanvitor.com">
-  <img src="https://img.shields.io/badge/Jhonathan-0077B5?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jhonathan-421b63?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 </a>
 <br />
