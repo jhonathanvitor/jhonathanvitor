@@ -20,6 +20,8 @@
 <a href="https://instagram.com/jhonathanvitor">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonathanvitor&theme=radical)
 </a>
 <a href="https://www.linkedin.com/in/jhonathan-vitor-4a676927/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
