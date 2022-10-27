@@ -33,6 +33,7 @@
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonathanvitor&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jhonathanvitor=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Passionate about education and changing people's lives through programming. 
 <br /><br />
