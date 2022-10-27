@@ -30,8 +30,9 @@
 </a>
 </a>
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonathanvitor&theme=radical)
 <br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonathanvitor&theme=radical)
 
 Passionate about education and changing people's lives through programming. 
 <br /><br />
