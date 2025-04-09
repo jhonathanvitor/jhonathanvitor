@@ -1,3 +1,4 @@
+<img width="100%" src="https://i.imgur.com/VzVjAzh.png" />
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif?raw=true"><img align="right" height="300px" src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif?raw=true" style="max-width:100%;"></a></p>
 <h1><a id="user-content-hi-there-relaxed" class="anchor" aria-hidden="true" href="#hi-there-relaxed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Jhonathan Vitor. Nice to meet you <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px" style="max-width:100%;"></h1>
 <p>My name is Jhonathan Vitor, I'm a developer at <a href="http://www.univag.com.br/">@Univag</a>. I love to bring fresh ideas and solve real problems. Currently working a lot with Frontend technologies like <strong>Typescript with Node.js, and .NET</strong>, and also with Frontend and Backend/Mobile using <strong>React and React Native</strong>.</p>
@@ -33,6 +34,37 @@
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonathanvitor&theme=radical)
+
+### Technologies I Work With
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+</div>
 
 Passionate about education and changing people's lives through programming. 
 <br /><br />
