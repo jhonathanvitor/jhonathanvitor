@@ -47,23 +47,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="typescript logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=sql" height="30" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="30" alt="terraform logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
 </div>
