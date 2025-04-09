@@ -49,19 +49,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="typescript logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="postgresql logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="30" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="git logo" />
 </div>
 
 Passionate about education and changing people's lives through programming. 
